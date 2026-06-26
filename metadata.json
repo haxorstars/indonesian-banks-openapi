@@ -1,0 +1,5 @@
+{
+  "name": "Indonesian Banks OpenApi",
+  "description": "Scraper real-time dan API untuk menyajikan daftar bank di Indonesia dari Wikipedia menggunakan Cheerio, lengkap dengan in-memory caching, CORS, dan sandbox interaktif.",
+  "requestFramePermissions": []
+}
