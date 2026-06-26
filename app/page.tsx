@@ -428,9 +428,9 @@ app.listen(3000, () => console.log('Server running on port 3000'));`
 
         {/* Sidebar Footer */}
         <div className="p-6 border-t border-emerald-500/10">
-          <div className="text-[10px] text-slate-500 uppercase mb-1 tracking-wider font-mono">Wikipedia Scraper v2.5.0</div>
+          <div className="text-[10px] text-slate-500 uppercase mb-1 tracking-wider font-mono">Indonesian Banks OpenApi</div>
           <div className="h-1.5 bg-slate-800 rounded-full overflow-hidden">
-            <div className="h-full bg-emerald-500" style={{ width: '85%' }}></div>
+            <div className="h-full bg-emerald-500" style={{ width: '100%' }}></div>
           </div>
         </div>
       </aside>
